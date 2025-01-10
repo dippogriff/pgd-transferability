@@ -1,0 +1,8 @@
+{
+    "clean_accuracy": 9.0,
+    "pgd_accuracies": {
+        "CNN": 9.0,
+        "ResNet": 9.0,
+        "ViT": 8.0
+    }
+}
